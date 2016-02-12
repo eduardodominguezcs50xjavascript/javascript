@@ -1,0 +1,15 @@
+div div
+{
+	display: block;
+	width = 33%;
+	background-color: gray;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 3px;
+}
+
+html
+{
+	text-align: center;
+}
